@@ -24,5 +24,4 @@ button.addEventListener("click", () => {
   counter += 1;
   counterElement.innerHTML = counter.toString();
   console.log("I have these thingies:", button, counterElement, counter);
-  
 });
